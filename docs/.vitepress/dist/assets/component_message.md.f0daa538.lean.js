@@ -1,0 +1,1 @@
+import{o as e,c as t}from"./app.691a73fc.js";const a='{"title":"message 消息","description":"","frontmatter":{"title":"message 消息"},"relativePath":"component/message.md","lastUpdated":1628863841149}',s={};s.render=function(a,s,r,o,n,i){return e(),t("div")};export{a as __pageData,s as default};
