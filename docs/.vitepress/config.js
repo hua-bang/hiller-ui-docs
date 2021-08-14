@@ -43,6 +43,10 @@ module.exports = {
             {
               text: "Message 消息框",
               link: "/component/message"
+            },
+            {
+              text: "Switch 开关",
+              link: "/component/switch"
             }
           ]
         }
